@@ -6,4 +6,6 @@ public class sigma {
 		System.out.println(" sunil");
 		
 	}
+	public void m1(){
+	}
 }
